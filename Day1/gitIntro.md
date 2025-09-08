@@ -4,7 +4,6 @@
 
 * [What is Git? And GitHub?](#whatisgit)
 * [Slow down. What is a "versioning system"?](#versioning)
-* [Who am I? And how did I get here?](#seriouslylost)
 * [How do I contribute to a project on GitHub?](#contributing)
 * [How do I get the latest version of the repository?](#updating)
 * [How do I commit my edits?](#committing)
@@ -18,8 +17,7 @@
 * [What is a "Pull Request"?](#pullrequests)
 * [What's the difference between a "Fork" and a "Branch"?](#forks)
 * [I'm told that I have a "conflict." What should I do?](#conflict)
-* [I don't seem to be able to push. What should I do?](force-push)
-* [Where can I find out more?](#more)
+* [I don't seem to be able to push. What should I do?](#force-push)
 
 ----------------------------------------------------------------------
 #### <a name="whatisgit"></a>What is Git? And GitHub?
